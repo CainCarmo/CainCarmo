@@ -20,7 +20,7 @@
   
   ##
 
-<div> 
+<div align="center" style="display: inline_block"> 
   <h3>📱 - Mídias</h3><br>
   <a href="https://www.youtube.com/channel/UCVT5WnGGp-bstL20gKejVSA"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="youtube badge" /></a>
   <a href="https://www.twitch.tv/kinshikss"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" /></a>
