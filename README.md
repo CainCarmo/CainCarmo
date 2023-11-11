@@ -12,8 +12,6 @@
 ![CSS3](https://icongr.am/devicon/css3-original.svg?size=48) &nbsp;
 ![Javascript](https://icongr.am/devicon/javascript-original.svg?size=48) &nbsp;
 ![Typescript](https://icongr.am/devicon/typescript-original.svg?size=48) &nbsp;
-![Angular](https://icongr.am/devicon/angularjs-original.svg?size=48) &nbsp;
-![TailwindCSS](https://devicon-website.vercel.app/api/tailwindcss/plain.svg?size=48) &nbsp;
 
 #### ⌨ - Back-End
 
@@ -23,13 +21,19 @@
 
 #### 🗃 - Banco de Dados
 
-![](https://devicon-website.vercel.app/api/microsoftsqlserver/plain-wordmark.svg?size=48) &nbsp;
-![](https://icongr.am/devicon/mysql-original-wordmark.svg?size=48) &nbsp;
-![](https://icongr.am/devicon/mongodb-original-wordmark.svg?size=48) &nbsp;
+![SQL Server](https://devicon-website.vercel.app/api/microsoftsqlserver/plain-wordmark.svg?size=48) &nbsp;
+![MySQL](https://icongr.am/devicon/mysql-original-wordmark.svg?size=48) &nbsp;
+![MongoDB](https://icongr.am/devicon/mongodb-original-wordmark.svg?size=48) &nbsp;
 
 #### 👾 - Engine de Jogos
 
 <img height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Gamemaker_language.png?20230105191729" />
+
+#### ⚙️ - Bibliotecas e Frameworks
+
+![DiscordJS](https://devicon-website.vercel.app/api/discordjs/original.svg?size=48) &nbsp;
+![TailwindCSS](https://devicon-website.vercel.app/api/tailwindcss/plain.svg?size=48) &nbsp;
+![Angular](https://icongr.am/devicon/angularjs-original.svg?size=48) &nbsp;
 
 ## 📈 - GIT Status
 
@@ -41,5 +45,5 @@
 
 |      Redes     |     Socias     |
 |----------------|----------------|
-| <img src="https://devicon-website.vercel.app/api/linkedin/original.svg" width="32">               | *_@caincarmo_*     |
-| <img src="https://devicons.railway.app/i/discord.svg" width="32" />                               | *_@kinshikss_*     |
+| <a href="www.linkedin.com/in/caincarmo"><img src="https://devicon-website.vercel.app/api/linkedin/original.svg" width="32"></a>               | *_@caincarmo_*     |
+| <img src="https://devicons.railway.app/i/discord.svg" width="32" />                                                                           | *_@kinshikss_*     |
