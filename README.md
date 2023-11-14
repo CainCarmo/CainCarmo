@@ -37,10 +37,12 @@
 
 ## 📈 - GIT Status
 
-![](https://github-readme-stats.vercel.app/api?username=CainCarmo&show_icons=true&hide=issues&title_color=f97316&text_color=ffffff&icon_color=facc15&bg_color=1c1917)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=CainCarmo&stroke=ffffff&background=1c1917&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff) &nbsp;&nbsp;&nbsp;
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=CainCarmo&langs_count=6&title_color=f97316&text_color=ffffff&icon_color=facc15&bg_color=1c1917&locale=en&custom_title=Top%20%Languages)
-
+<div>
+  <img width="100%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CainCarmo&stroke=ffffff&background=1c1917&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CainCarmo&hide=YACC&langs_count=6&title_color=f97316&text_color=ffffff&icon_color=facc15&bg_color=1c1917&locale=pt-br&custom_title=Top%20%Languages" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=CainCarmo&show_icons=true&hide=issues&title_color=f97316&text_color=ffffff&icon_color=facc15&bg_color=1c1917" />
+</div>
+  
 ## 📲 - Contatos
 
 |      Redes     |     Socias     |
