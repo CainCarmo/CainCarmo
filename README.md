@@ -11,6 +11,11 @@
 
 ![typing][presentation-typing]
 
+<div align="center">
+
+  > **Sou um estudante do último ano do ensino médio de técnico de informática, apaixonado por tecnologias e programação. Moro no Rio de Janeiro, a cidade maravilhosa, e gosto de explorar novos desafios e aprender coisas novas.**
+</div>
+
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=CainCarmo&show_icons=true&count_private=true&hide_border=true&title_color=64CCC5&icon_color=64CCC5&text_color=c9d1d9&bg_color=0d1117" alt="CaiCarmo stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CainCarmo&layout=compact&hide_border=true&title_color=64CCC5&text_color=64CCC5&bg_color=0d1117&hide=YACC&langs_count=6" />
