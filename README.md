@@ -1,51 +1,99 @@
-<img min-width="500px" max-width="500px" width="500px" align="right" src="https://media.discordapp.net/attachments/1169230612570325072/1169231094613299281/perfi_git.gif?ex=6554a650&is=65423150&hm=6dffaf1e401b3908b225a8936eff753b15d39b6af3c95053e85e52889d30fb6d" />
+[//]: Header
 
-# 👋 - Olá, eu sou Cainã Carmo
+![header-design][header-bar]
 
-> **Sou um estudante do último ano do ensino médio de técnico de informática, apaixonado por tecnologias e programação. Moro no Rio de Janeiro, a cidade maravilhosa, e gosto de explorar novos desafios e aprender coisas novas.**
+[//]: Body
+
+<div align="center">
+
+  ![][presentation-gif]
+</div>
+
+![typing][presentation-typing]
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=CainCarmo&show_icons=true&count_private=true&hide_border=true&title_color=64CCC5&icon_color=64CCC5&text_color=c9d1d9&bg_color=0d1117" alt="CaiCarmo stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CainCarmo&layout=compact&hide_border=true&title_color=64CCC5&text_color=64CCC5&bg_color=0d1117&hide=YACC&langs_count=6" />
+</div>
 
 ## 📚 - Atualmente Estudando
 
-#### 🖱 - Front-End
+<div align="center">
 
-![HTML5](https://icongr.am/devicon/html5-original.svg?size=48) &nbsp;
-![CSS3](https://icongr.am/devicon/css3-original.svg?size=48) &nbsp;
-![Javascript](https://icongr.am/devicon/javascript-original.svg?size=48) &nbsp;
-![Typescript](https://icongr.am/devicon/typescript-original.svg?size=48) &nbsp;
-
-#### ⌨ - Back-End
-
-![Csharp](https://devicon-website.vercel.app/api/csharp/original.svg?size=48) &nbsp;
-![PHP](https://icongr.am/devicon/php-original.svg?size=48) &nbsp;
-![Node.JS](https://icongr.am/devicon/nodejs-original-wordmark.svg?size=48) &nbsp;
-
-#### 🗃 - Banco de Dados
-
-![SQL Server](https://devicon-website.vercel.app/api/microsoftsqlserver/plain-wordmark.svg?size=48) &nbsp;
-![MySQL](https://icongr.am/devicon/mysql-original-wordmark.svg?size=48) &nbsp;
-![MongoDB](https://icongr.am/devicon/mongodb-original-wordmark.svg?size=48) &nbsp;
-
-#### 👾 - Engine de Jogos
-
-<img height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Gamemaker_language.png?20230105191729" />
-
-#### ⚙️ - Bibliotecas e Frameworks
-
-![DiscordJS](https://devicon-website.vercel.app/api/discordjs/original.svg?size=48) &nbsp;
-![TailwindCSS](https://devicon-website.vercel.app/api/tailwindcss/plain.svg?size=48) &nbsp;
-![Angular](https://icongr.am/devicon/angularjs-original.svg?size=48) &nbsp;
-
-## 📈 - GIT Status
-
-<div>
-  <img width="100%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CainCarmo&stroke=ffffff&background=1c1917&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CainCarmo&hide=YACC&langs_count=6&title_color=f97316&text_color=ffffff&icon_color=facc15&bg_color=1c1917&locale=pt-br&custom_title=Top%20%Languages" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=CainCarmo&show_icons=true&hide=issues&title_color=f97316&text_color=ffffff&icon_color=facc15&bg_color=1c1917" />
+  #### 🖱 - Front-End
+  ![][html-badge]
+  ![][css-badge]
+  ![][javascript-badge]
+  ![][typescript-badge]
 </div>
-  
-## 📲 - Contatos
 
-|      Redes     |     Socias     |
-|----------------|----------------|
-| <a href="www.linkedin.com/in/caincarmo"><img src="https://devicon-website.vercel.app/api/linkedin/original.svg" width="32"></a>               | *_@caincarmo_*     |
-| <img src="https://devicons.railway.app/i/discord.svg" width="32" />                                                                           | *_@kinshikss_*     |
+<div align="center">
+
+  #### ⌨ - Back-End
+  ![][csharp-badge]
+  ![][nodejs-badge]
+  ![][php-badge]
+</div>
+
+<div align="center">
+
+  #### 🗃 - Banco de Dados
+  ![][sqlserver-badge]
+  ![][mysql-badge]
+  ![][mongodb-badge]
+</div>
+
+<div align="center">
+  
+  #### 👾 - Engine de Jogos
+  ![][gamemaker-badge]
+</div>
+
+<div align="center">
+
+  #### ⚙️ - Frameworks e Bibliotecas
+  ![][angular-badge]
+  ![][tailwind-badge]
+  ![][discordjs-badge]
+</div>
+
+<div align="center">
+  
+  #### 🔧 - Ferramentas
+  ![][git-badge]
+  ![][vscode-badge]
+  ![][visualstudio-badge]
+</div>
+
+[//]: Footer
+
+![footer-design][footer-bar]
+
+---
+> © 2023 Cainã Carmo
+
+[//]: Images-Links
+
+[header-bar]: https://capsule-render.vercel.app/api?type=waving&color=64CCC5&height=120&section=header
+[footer-bar]: https://capsule-render.vercel.app/api?type=waving&color=64CCC5&height=120&section=footer
+
+[presentation-gif]:    https://media.discordapp.net/attachments/1169230612570325072/1169231094613299281/perfi_git.gif?ex=658c0550&is=65799050&hm=e176206360891c41e47ce56e67089dddb0238001af40db5ed8b24795ccd54483&=&width=831&height=468
+[presentation-typing]: https://readme-typing-svg.herokuapp.com/?color=F0ECE5&size=35&center=true&vCenter=true&width=840&lines=👋+-+Olá,+eu+sou+o+Cainã+Carmo;👋+-+Hi,+I`m+Cainã+Carmo
+
+[html-badge]:         https://img.shields.io/badge/HTML5-176B87?style=for-the-badge&logo=html5&logoColor=FFF
+[css-badge]:          https://img.shields.io/badge/CSS3-176B87?style=for-the-badge&logo=css3&logoColor=FFF
+[javascript-badge]:   https://img.shields.io/badge/JAVASCRIPT-176B87?style=for-the-badge&logo=javascript&logoColor=FFF
+[typescript-badge]:   https://img.shields.io/badge/TYPESCRIPT-176B87?style=for-the-badge&logo=typescript&logoColor=FFF
+[csharp-badge]:       https://img.shields.io/badge/CSHARP-176B87?style=for-the-badge&logo=csharp&logoColor=FFF
+[php-badge]:          https://img.shields.io/badge/PHP-176B87?style=for-the-badge&logo=php&logoColor=FFF
+[nodejs-badge]:       https://img.shields.io/badge/NODE.JS-176B87?style=for-the-badge&logo=node.js&logoColor=FFF
+[sqlserver-badge]:    https://img.shields.io/badge/SQL%20SERVER-176B87?style=for-the-badge&logo=microsoftsqlserver&logoColor=FFF
+[mysql-badge]:        https://img.shields.io/badge/MySQL-176B87?style=for-the-badge&logo=mysql&logoColor=FFF
+[mongodb-badge]:      https://img.shields.io/badge/MONGODB-176B87?style=for-the-badge&logo=mongodb&logoColor=FFF
+[gamemaker-badge]:    https://img.shields.io/badge/GAMEMAKER-176B87?style=for-the-badge&logo=gamemaker&logoColor=FFF
+[discordjs-badge]:    https://img.shields.io/badge/DISCORD%20JS-176B87?style=for-the-badge&logo=discord&logoColor=FFF
+[tailwind-badge]:     https://img.shields.io/badge/TAILWINDCSS-176B87?style=for-the-badge&logo=tailwindcss&logoColor=FFF
+[angular-badge]:      https://img.shields.io/badge/ANGULAR-176B87?style=for-the-badge&logo=angular&logoColor=FFF
+[git-badge]:          https://img.shields.io/badge/GIT-176B87?style=for-the-badge&logo=git&logoColor=FFF
+[visualstudio-badge]: https://img.shields.io/badge/VISUAL%20STUDIO-176B87?style=for-the-badge&logo=visualstudio&logoColor=FFF
+[vscode-badge]:       https://img.shields.io/badge/VSCODE-176B87?style=for-the-badge&logo=visualstudiocode&logoColor=FFF
