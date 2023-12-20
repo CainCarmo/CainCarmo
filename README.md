@@ -18,7 +18,7 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=CainCarmo&show_icons=true&count_private=true&hide_border=true&title_color=64CCC5&icon_color=64CCC5&text_color=c9d1d9&bg_color=0d1117" alt="CaiCarmo stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CainCarmo&layout=compact&hide_border=true&title_color=64CCC5&text_color=64CCC5&bg_color=0d1117&hide=YACC&langs_count=6" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CainCarmo&layout=compact&hide_border=true&title_color=64CCC5&text_color=64CCC5&bg_color=0d1117&hide=YACC,Hack&langs_count=6" />
 </div>
 
 ## 📚 - Atualmente Estudando
