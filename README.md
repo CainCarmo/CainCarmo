@@ -4,6 +4,7 @@
 ![Presentation Typing][perfil_text]
 
 <img 
+  width="100%"
   height="400px"
   src="./assets/gif/background.gif" 
   alt="Vortex gif"
