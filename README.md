@@ -32,20 +32,15 @@
 ---
 
 [//]: Footer
-<div align="center">
-  <img
-    width="49%"
-    height="200px"
-    src="https://github-readme-stats.vercel.app/api?username=CainCarmo&show_icons=true&count_private=true&hide_border=true&title_color=c6d0f5&icon_color=ef9f76&text_color=b5bfe2&bg_color=292c3c"
-    alt=""
-  />
-  <img 
-    height="200px" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=CainCarmo&layout=compact&hide_border=true&title_color=c6d0f5&text_color=b5bfe2&bg_color=292c3c&langs_count=6" 
-    alt=""
-  />
-</div>
 
+<img
+  height=200
+  src="https://github-readme-stats.vercel.app/api?username=CainCarmo&show_icons=true&count_private=true&hide_border=true&title_color=c6d0f5&icon_color=ef9f76&text_color=b5bfe2&bg_color=292c3c"
+/>
+<img 
+  height=200 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=CainCarmo&layout=compact&hide_border=true&title_color=c6d0f5&text_color=b5bfe2&bg_color=292c3c&langs_count=6" 
+/>
 
 > © 2024 Cainã Carmo
 
