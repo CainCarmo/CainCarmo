@@ -70,7 +70,7 @@
 [card_stats]: https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CainCarmo&theme=gruvbox
 [card_langs]: https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CainCarmo&theme=gruvbox
 [card_commit]: https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CainCarmo&theme=gruvbox
-[card_streak]: https://github-readme-streak-stats.herokuapp.com?user=CainCarmo&theme=gruvbox&hide_border=true
+[card_streak]: https://github-readme-streak-stats.herokuapp.com?user=CainCarmo&theme=gruvbox&hide_border=true&locale=pt_BR
 
 <!-- Text -->
 
