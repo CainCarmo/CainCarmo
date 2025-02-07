@@ -53,9 +53,9 @@
 
 <!-- Layouts -->
 
-[separator]: ./assets/fade-line.gif
-[header_wave]: https://capsule-render.vercel.app/api?type=waving&height=200&color=40a02b&reversal=true&section=header
-[footer_wave]: https://capsule-render.vercel.app/api?type=waving&height=100&color=40a02b&reversal=true&section=footer
+[separator]: ./assets/separator.gif
+[header_wave]: https://capsule-render.vercel.app/api?type=waving&height=200&color=AD49E1&reversal=true&section=header
+[footer_wave]: https://capsule-render.vercel.app/api?type=waving&height=100&color=AD49E1&reversal=true&section=footer
 
 <!-- Badges -->
 
@@ -67,10 +67,10 @@
 
 <!-- Metrics -->
 
-[card_stats]: https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CainCarmo&theme=gruvbox
-[card_langs]: https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CainCarmo&theme=gruvbox
-[card_commit]: https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CainCarmo&theme=gruvbox
-[card_streak]: https://github-readme-streak-stats.herokuapp.com?user=CainCarmo&theme=gruvbox&hide_border=true&locale=pt_BR
+[card_stats]: https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CainCarmo&theme=midnight_purple
+[card_langs]: https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CainCarmo&theme=midnight_purple
+[card_commit]: https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CainCarmo&theme=midnight_purple
+[card_streak]: https://github-readme-streak-stats.herokuapp.com?user=CainCarmo&theme=midnight_purple&hide_border=true&locale=pt_BR
 
 <!-- Text -->
 
