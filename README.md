@@ -43,7 +43,7 @@
 
 [//]: Footer
 
-![][separator]
+<img src="./assets/separator.gif" width="100%" />
 
 > © 2025 Cainã Carmo
 
@@ -53,7 +53,6 @@
 
 <!-- Layouts -->
 
-[separator]: ./assets/separator.gif
 [header_wave]: https://capsule-render.vercel.app/api?type=waving&height=200&color=AD49E1&reversal=true&section=header
 [footer_wave]: https://capsule-render.vercel.app/api?type=waving&height=100&color=AD49E1&reversal=true&section=footer
 
