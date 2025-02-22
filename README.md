@@ -73,4 +73,4 @@
 
 <!-- Text -->
 
-[presentation]: https://readme-typing-svg.herokuapp.com/?color=cad3f5&size=26&center=true&vCenter=true&width=840&lines=👋%20Opa,%20eu%20sou%20o%20Cainã;Atualmente%20cursando%20Engenharia%20de%20Software;Seja%20bem-vindo%20😄;👋%20Hey,%20I'm%20Cainã;Currently%20studying%20Software%20Engineering;Be%20Welcome%20😄
+[presentation]: https://readme-typing-svg.herokuapp.com/?color=cad3f5&size=26&center=true&vCenter=true&width=840&lines=👋%20Olá;Sou%20um%20Estudante%20de%20Engenharia%20de%20Software;Bem-vindo%20ao%20meu%20perfil%20😄;👋%20Hello;I%20am%20a%20Software%20Engineering%20Student;Welcome%20to%20my%20profile%20😄;
