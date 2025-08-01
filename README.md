@@ -6,6 +6,7 @@
 <br />
 
 ![][header_pfp]
+
 ![][presentation]
 
 <h3>I'm a Backend Developer</h3>
