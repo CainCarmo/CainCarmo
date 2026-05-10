@@ -65,6 +65,12 @@ Career and Technical Education (CTE) High School — ETERJ \
 BSC Software Engineering — Estácio de Sá \
 (Distributed Systems · Cloud Computing · Security · In progress)
 
+## ⇁ Status
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=CainCarmo&theme=gruvbox&card_height=200&border_radius=6&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CainCarmo&theme=gruvbox" alt="Language por Repos" />
+</div>
 <!-- Footer -->
 ---
 
