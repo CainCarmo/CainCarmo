@@ -71,6 +71,7 @@ BSC Software Engineering — Estácio de Sá \
   <img src="https://github-readme-streak-stats.herokuapp.com?user=CainCarmo&theme=gruvbox&card_height=200&border_radius=6&hide_border=true" alt="GitHub Streak" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CainCarmo&theme=gruvbox" alt="Language por Repos" />
 </div>
+
 <!-- Footer -->
 ---
 
