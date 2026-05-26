@@ -68,8 +68,15 @@ BSC Software Engineering — Estácio de Sá \
 ## ⇁ Status
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=CainCarmo&theme=gruvbox&card_height=200&border_radius=6&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-stats-tau-nine-81.vercel.app/api/top-langs/?username=CainCarmo&theme=gruvbox&layout=compact&card_width=400&langs_count=6&hide_border=true" alt="Most used Languages" />
+  <img
+    height=165
+    src="https://github-readme-streak-stats.herokuapp.com?user=CainCarmo&theme=gruvbox&card_height=150&border_radius=6&hide_border=true"
+    alt="GitHub Streak"
+  />
+  <img
+    src="https://github-readme-stats-tau-nine-81.vercel.app/api/top-langs/?username=CainCarmo&theme=gruvbox&layout=compact&card_width=400&langs_count=6&hide_border=true"
+    alt="Most used Languages"
+  />
 </div>
 
 <!-- Footer -->
