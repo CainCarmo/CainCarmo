@@ -70,7 +70,7 @@ BSC Software Engineering — Estácio de Sá \
 <div align="center">
   <img
     height=165
-    src="https://github-readme-streak-stats.herokuapp.com?user=CainCarmo&theme=gruvbox&card_height=150&border_radius=6&hide_border=true"
+    src="./assets/images/streak-stats.svg"
     alt="GitHub Streak"
   />
   <img
